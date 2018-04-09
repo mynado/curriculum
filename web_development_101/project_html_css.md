@@ -1431,6 +1431,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Timothy Shortess's Solution (Easy)](http://timmshor.github.io/google-homepage/)
 * [Ignacio Troncoso's Solution (Easy)](https://github.com/curlynacho/google-homepage)
 * [Beau Findlay's Solution (Easy)](https://github.com/bdfin/google-homepage) - [View in Browser](https://bdfin.github.io/google-homepage/)
+* [MyNa's Solution (Easy)] (https://mynado.github.io/google-homepage/)
 ### Additional Resources
 
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
